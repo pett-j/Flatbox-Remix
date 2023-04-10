@@ -5,7 +5,7 @@ Parts required for a full assembly
 - 1 case
 - 1 plate
 - 7 M3x6 countersunk screws
-- 6 12mm rubber bumpons/feet
+- 6 12mm rubber feet/bumpons
 
 References:
 - jfedor: https://github.com/jfedor2/flatbox
