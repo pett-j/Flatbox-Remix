@@ -15,7 +15,7 @@ Parts required for a full assembly:
   https://www.ebay.co.uk/itm/233216080460
 
 Depedning on your printer and settings, you can print the all parts without supports.
-But to help with printing the slot for the USB-C port on the case, some can be used with the overhangs.
+But to help with printing the slot for the USB-C port on the case, some can be used with the bridge.
 
 References:
 - jfedor: https://github.com/jfedor2/flatbox
