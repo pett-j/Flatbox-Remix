@@ -4,7 +4,7 @@ This is a remix of the Flatbox rev5 case by jfedor and fits the rev5 PCB without
 Parts required for a full assembly:
 - 1x case
 - 1x plate
-- 12x choc v1 compatible buttons (1 big, 11 small), I recomend the Bridget buttons from SGFDevices
+- 12x choc v1 compatible buttons (1 big, 11 small), I recommend the Bridget buttons from SGFDevices
 - 7x M3x6 countersunk screws<br>
   https://shop4fasteners.co.uk/socket-head-csk-screws-bzp-m3-x-6mm.html
 - 6x 12mm rubber feet/bumpons<br>
