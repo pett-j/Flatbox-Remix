@@ -9,9 +9,7 @@ Parts required for a full assembly:
   https://shop4fasteners.co.uk/socket-head-csk-screws-bzp-m3-x-6mm.html
 - 6x 12mm rubber feet/bumpons<br>
   https://www.ebay.co.uk/itm/202803190983
-- 6x 6x6x7 or 6x6x8 round head tactile push buttons<br>
-  https://uk.farnell.com/alcoswitch-te-connectivity/fsm8jh/switch-spst-0-05a-24vdc-pcb/dp/1555985
-- 6x A56 caps for option buttons<br>
+- 6x A56 caps for option buttons for 6x6x7 or 6x6x8 round head tactile push buttons<br>
   https://www.ebay.co.uk/itm/233216080460
 
 Depedning on your printer and settings, you can print all parts without supports.
@@ -19,5 +17,5 @@ But to help with printing the slot for the USB-C port on the case, some can be u
 The bottom plate may also require supports for the feet indents.
 
 References:
-- jfedor: https://github.com/jfedor2/flatbox
-- SGFDevices: https://github.com/sgfdevices
+- [jfedor Flatbox](https://github.com/jfedor2/flatbox)
+- [SGFDevices Bridget](https://github.com/sgfdevices/Bridget)
