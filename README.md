@@ -14,6 +14,9 @@ Parts required for a full assembly:
 - 6x A56 caps for option buttons<br>
   https://www.ebay.co.uk/itm/233216080460
 
+Depedning on your printer and settings, you can print the all parts without supports.
+But to help with printing the slot for the USB-C port on the case, some can be used with the overhangs.
+
 References:
 - jfedor: https://github.com/jfedor2/flatbox
 - SGFDevices: https://github.com/sgfdevices
