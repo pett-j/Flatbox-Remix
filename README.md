@@ -14,7 +14,7 @@ Parts required for a full assembly:
 
 Depedning on your printer and settings, you can print all parts without supports.
 But to help with printing the slot for the USB-C port on the case, some can be used with the bridge.
-The bottom plate may also require supports for the feet indents.
+The bottom plate may also require supports for the recesses.
 
 References:
 - [jfedor Flatbox](https://github.com/jfedor2/flatbox)
