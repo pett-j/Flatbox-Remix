@@ -5,8 +5,7 @@ Parts required for a full assembly:
 - 1x case
 - 1x bottom plate
 - 12x choc v1 compatible buttons (1 big, 11 small), I recommend the Bridget buttons from SGFDevices
-- 7x M3x6 countersunk screws<br>
-  https://shop4fasteners.co.uk/socket-head-csk-screws-bzp-m3-x-6mm.html
+- 7x M3x6 countersunk screws
 - 6x 12mm rubber feet/bumpons<br>
   https://www.ebay.co.uk/itm/202803190983
 - 6x A56 caps for option buttons for 6x6x7 or 6x6x8 round head tactile push buttons<br>
