@@ -1,4 +1,4 @@
-# Flatbox rev5 case remix
+# Flatbox rev5 remix
 This is a remix of the Flatbox rev5 case by jfedor and fits the rev5 PCB without modification.
 
 Parts required for a full assembly:
