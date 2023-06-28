@@ -22,7 +22,7 @@ Case with threaded inserts:
     https://shop4fasteners.co.uk/torx-csk-head-machine-screw-a2-m2-0-x-6mm.html
 - 7x M2x4 brass threaded inserts
     https://shop4fasteners.co.uk/heat-ultrasonic-threaded-inserts-brass-m2-x-4-0mm.html
-
+    
 Depending on your printer and settings, you can print all parts without supports.<br>
 
 I recomended supports with bottom plate for the feet extrusions, and the USB-C port on the case can also use some with the bridge, but this isn't required.
